@@ -27,8 +27,9 @@ O objetivo deste projeto é aplicar uma **metodologia estruturada de 3 etapas** 
 
 ```mermaid
 flowchart LR
-    A[Passo 1: Intenção] --> B[Passo 2: Contexto & Restrições]
-    B --> C[Passo 3: Prompt Final Consolidado
+    A["Passo 1: Intenção"] --> B["Passo 2: Contexto & Restrições"]
+    B --> C["Passo 3: Prompt Final Consolidado"]
+```
 
 ---
 
