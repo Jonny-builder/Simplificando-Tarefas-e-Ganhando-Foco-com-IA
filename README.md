@@ -58,6 +58,8 @@ Opção 2, Git/GitHub (ótimo para praticar versionamento):
 Dica: o .md no GitHub já é renderizado de forma bonita, sem precisar de nenhuma configuração extra.
 
 
-Prompt final:
+🚀 Prompt Final Consolidado
+
+O prompt final resultante deste desafio está formatado abaixo, pronto para ser copiado e utilizado em qualquer assistente de IA:
 
 Quero que a IA gere uma agenda de exercícios físicos de baixo impacto para um público sedentário, com média de idade de 35 anos, nível iniciante, com o objetivo de preparar o condicionamento físico para uma caminhada de 25km. Considere o seguinte contexto: rotina de 3 dias por semana de treino. O conteúdo deve ser apresentado em forma de tabela para cada dia de treino. Evite termos complexos.
